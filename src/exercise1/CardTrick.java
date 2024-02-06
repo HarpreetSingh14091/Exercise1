@@ -7,7 +7,7 @@ package exercise1;
  *
  * @author Maninderpal Singh
  * @author Maninderpal Singh Feb 2024
- */
+ * Done
 import java.util.Random;
 
 public class CardTrick {
